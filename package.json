@@ -3,6 +3,10 @@
   "version": "0.1.0",
   "description": "RocketMap - Live Visualization",
   "main": "Gruntfile.js",
+  "engines": {
+    "node": "4.7.x",
+    "npm": "3.8.x"
+  },
   "dependencies": {
     "babel-preset-env": "^1.6.0",
     "eslint": "^3.1.1",
