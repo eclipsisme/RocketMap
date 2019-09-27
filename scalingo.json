@@ -1,7 +1,11 @@
 {
-  "name": "RocketMap",
+  "name": "RocketMap",  
+  "engines": {
+    "node": "4.7.x",
+    "npm": "3.8.x"
+  },
   "description": "Live visualization of all the Pokémon (with option to show gyms and pokéstops) in an area on Pokémon Go.",
-  "repository": "https://github.com/RocketMap/RocketMap/",
+  "repository": "https://github.com/eclipsisme/RocketMap/",
   "website": "https://jz6.github.io/PoGoMap/",
   "env": {
     "AUTH_SERVICE": {
@@ -31,9 +35,5 @@
       "description": "Internal variable to build with node and python",
       "value": "https://github.com/Scalingo/multi-buildpack.git"
     }
-  },
-  "engines": {
-    "node": "4.7.0",
-    "npm": "3.8.9"
   }
 }
