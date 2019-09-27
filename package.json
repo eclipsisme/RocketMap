@@ -4,8 +4,8 @@
   "description": "RocketMap - Live Visualization",
   "main": "Gruntfile.js",
   "engines": {
-    "node": "4.7.x",
-    "npm": "3.8.x"
+    "node": "4.7.0",
+    "npm": "3.8.9"
   },
   "dependencies": {
     "babel-preset-env": "^1.6.0",
