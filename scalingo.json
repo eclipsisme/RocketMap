@@ -31,5 +31,9 @@
       "description": "Internal variable to build with node and python",
       "value": "https://github.com/Scalingo/multi-buildpack.git"
     }
+  },
+  "engines": {
+    "node": "4.7.0",
+    "npm": "3.8.9"
   }
 }
